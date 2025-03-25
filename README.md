@@ -1,8 +1,6 @@
 # lab1
 # Pomocnicy w zadaniach programistycznych
 
-W trakcie pracy nad zadaniami (ćwiczeniami), będziecie spotykać się z różnymi pomocnikami, którzy będą wskazywać, co należy zrobić w danym fragmencie kodu. Im dalsze ćwiczenie, tym rzadziej będą się pojawiać. Oto krótka charakterystyka każdego z nich:
-
 ## 🔧 Configo The Setter - Konfiguracja aplikacji  
 Pokazuje miejsca, w których powinny zostać zdefiniowane elementy związane z ustawieniem aplikacji, takie jak port, zmienne środowiskowe, itp.
 
